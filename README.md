@@ -1,0 +1,5 @@
+- 👋 Hi, my real name - artem
+- 👀 I’m interested in -  IT, basketball
+- 🌱 I’m currently learning - in college
+- 📫 How to reach me -  Telegram @xoutn
+- 😄 Pronouns: Fhehq
