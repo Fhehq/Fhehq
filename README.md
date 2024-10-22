@@ -1,5 +1,5 @@
 - 👋 Hi, my real name - artem
-- 🌍  I'm based in London, Russia
+- 🌍  I'm based in Russia
 - 👀 I’m interested in -  IT, basketball
 - 📫 How to reach me -  Telegram @fhehq
 - 😄 Pronouns: Fhehq
