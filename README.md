@@ -2,4 +2,4 @@
 - 🌍  I'm based in Russia
 - 👀 I’m interested in -  IT, basketball
 - 📫 How to reach me -  Telegram @fhehq
-- 😄 Pronouns: Fhehq
+- 😄 Pronouns: he/him
