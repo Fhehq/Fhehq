@@ -1,5 +1,5 @@
-- 👋 Hi, my real name - artem
-- 🌍  I'm based in Russia
-- 👀 I’m interested in -  IT, basketball
-- 📫 How to reach me -  Telegram @fhehq
-- 😄 Pronouns: he/him
+### 👋 Welcome to my GitHub
+
+---
+🚀 **Beginer Backend Developer** focused on Python  
+🌱 Currently learning the fundamentals of backend development
