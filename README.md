@@ -6,9 +6,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,mysql,claude,chatgpt" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,apple,vscode,pycharm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,apple,vscode,pycharm" />
+  <br><br>
 </p>
 
 ## 📊 GitHub Stats
